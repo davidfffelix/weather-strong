@@ -11,8 +11,29 @@
 
 
 body {
+    background: #43affc;
     display: flex;
     align-items: center;
     justify-content: center;
     min-height: 100vh;
 }
+
+
+.wrapper {
+    background: #fff;
+    width: 400px;
+    border-radius: 7px;
+}
+
+
+.wrapper header {
+    color: #43affc;
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+    font-weight: 500;
+    padding: 16px 15px;
+    border-bottom: 1px solid #bfbfbf;
+}
+
+
