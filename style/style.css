@@ -11,7 +11,7 @@
 
 
 body {
-    background: #43affc;
+    background-color: #43affc;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -20,7 +20,7 @@ body {
 
 
 .wrapper {
-    background: #fff;
+    background-color: #fff;
     width: 400px;
     border-radius: 7px;
 }
@@ -64,3 +64,9 @@ header i {
     border: 1px solid #bfbfbf;
 }
 
+
+.input-part button {
+    background-color: #43affc;
+    color: #fff;
+    cursor: pointer;    
+}
