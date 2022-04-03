@@ -65,8 +65,18 @@ header i {
 }
 
 
+.input-part .separator {
+    background-color: #ccc;
+    width: 100%;
+    height: 1px;
+    margin: 25px 0;
+}
+
 .input-part button {
     background-color: #43affc;
     color: #fff;
     cursor: pointer;    
 }
+
+
+
