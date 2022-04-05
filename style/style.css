@@ -57,8 +57,10 @@ header i {
 }
 
 
-.info-txt.error {
-    
+.info-txt .error {
+    background-color: ;
+    color: ;
+    border: 1px solid ;
 }
 
 .input-part :where(input, button) {
