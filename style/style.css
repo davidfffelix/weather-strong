@@ -133,3 +133,8 @@ header i {
 }
 
 
+.weather-part img {
+    max-width: 125px;
+}
+
+
