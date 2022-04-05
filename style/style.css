@@ -51,10 +51,14 @@ header i {
 
 .input-part .info-txt {
     font-size: 18px;
-    background-color: red;
     border-radius: 7px;
     text-align: center;
     padding: 12px 10px;
+}
+
+
+.info-txt.error {
+    
 }
 
 .input-part :where(input, button) {
