@@ -138,3 +138,10 @@ header i {
 }
 
 
+.weather-part .temp {
+    display: flex;
+    font-size: 50px;
+    font-weight: 500;
+}
+
+
