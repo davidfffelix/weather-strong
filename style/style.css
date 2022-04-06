@@ -166,7 +166,16 @@ header i {
 
 
 .weather-part .location {
+    display: flex;
+    align-items: center;
     font-size: 21px;
+    margin-bottom: 30px;
+}
+
+
+.location i {
+    font-size: 22px;
+    margin-right: 5px;
 }
 
 
