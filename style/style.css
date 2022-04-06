@@ -179,6 +179,14 @@ header i {
 }
 
 
+.weather-part .bottom-details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+
 
 
 
