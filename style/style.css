@@ -193,6 +193,7 @@ header i {
     align-items: center;
     justify-content: center;
     width: 100%;
+    padding: 15px 0;
 }
 
 
@@ -210,6 +211,7 @@ header i {
 .details .temp, .humidity span {
     font-size: 18px;
     font-weight: 500;
+    margin-top: -3px;
 }
 
 
@@ -217,6 +219,12 @@ header i {
     font-size: 17px;
     margin: 0;
     padding: 0 2px 0 1px;
+}
+
+
+.details p {
+    font-size: 14px;
+    margin-top: -6px;
 }
 
 
