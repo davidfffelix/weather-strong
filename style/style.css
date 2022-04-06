@@ -199,9 +199,12 @@ header i {
 .column i {
     color: #43affc;
     font-size: 40px;
-
 }
 
+
+.column.humidity {
+    border-left: 1px solid #bfbfbf;
+}
 
 
 
