@@ -183,6 +183,15 @@ header i {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    border-top: 1px solid #bfbfbf;
+    width: 100%;
+}
+
+
+.bottom-details .column {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 100%;
 }
 
