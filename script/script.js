@@ -3,4 +3,6 @@ inputPart = wrapper.querySelector(".input-part");
 infoTxt = inputPart.querySelector(".info-txt");
 inputField = inputPart.querySelector("input");
 
-inputField.addEventListener("")
+inputField.addEventListener("keyup", e =>) {
+    if()
+}
